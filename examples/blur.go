@@ -1,6 +1,6 @@
 package main
 
-import "github.com/fishtailstudio/imgo"
+import "github.com/wxxhub/imgo"
 
 func main() {
 	imgo.Load("gopher.png").

@@ -4,8 +4,8 @@
 ![Github stars](https://img.shields.io/github/stars/fishtailstudio/imgo?style=social)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/fishtailstudio/imgo)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/fishtailstudio/imgo)
-[![GoDoc](https://godoc.org/github.com/fishtailstudio/imgo?status.svg)](https://pkg.go.dev/github.com/fishtailstudio/imgo)
-[![Go Report Card](https://goreportcard.com/badge/github.com/fishtailstudio/imgo)](https://goreportcard.com/report/github.com/fishtailstudio/imgo)
+[![GoDoc](https://godoc.org/github.com/wxxhub/imgo?status.svg)](https://pkg.go.dev/github.com/wxxhub/imgo)
+[![Go Report Card](https://goreportcard.com/badge/github.com/wxxhub/imgo)](https://goreportcard.com/report/github.com/wxxhub/imgo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 介绍
@@ -17,7 +17,7 @@
 ## 安装
 
 ```bash
-go get -u github.com/fishtailstudio/imgo
+go get -u github.com/wxxhub/imgo
 ```
 
 ## 文档
@@ -29,7 +29,7 @@ go get -u github.com/fishtailstudio/imgo
 ```go
 package main
 
-import "github.com/fishtailstudio/imgo"
+import "github.com/wxxhub/imgo"
 
 func main() {
     imgo.Load("background.png").
@@ -45,7 +45,7 @@ func main() {
 
 ## 如何贡献
 
-非常欢迎大家 [提交 Issue](https://github.com/fishtailstudio/imgo/issues/new) 或 [提交 Pull Request](https://github.com/fishtailstudio/imgo/pulls)。
+非常欢迎大家 [提交 Issue](https://github.com/wxxhub/imgo/issues/new) 或 [提交 Pull Request](https://github.com/wxxhub/imgo/pulls)。
 
 ## 点个 Star ! ⭐
 
